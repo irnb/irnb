@@ -5,32 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as  Blockchain and DeFi researcher
-- 🌱 I’m currently learning about Smartcontract development 
-- 👯 I’m looking to collaborate on writting research paper in DeFi world
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Bitcoin and ethereum (in protocol level)
-- 📫 How to reach me: hamid@europe.com, https://twitter.com/newbateni2, https://t.me/hamidList
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working as  Blockchain and DeFi researcher
-- 🌱 I’m currently learning about Cross rollup transactions in ethereum layer 2
-- 👯 I’m looking to collaborate on writting research paper in DeFi world
+- 🔭 Deif, Privacy, Distributed Protocols
 - 📫 How to reach me: hamid@europe.com, https://t.me/hamidList
-
-- 💬 I sometimes write some technical threads on Twitter in the Persian language. you can find them here: https://twitter.com/newbateni2/status/1390552698265772035?s=20
+- 💬 my second github page: @flokibb
 
 
 technical skills list:
 - Bitcoin (protocol level)
 - Ethereum (protocol level)
-- Python, Django
-- Java SE
-- Solidity, Openzeppelin, Truffle, Harhat
-- Stellar (application level)
-- Hyperleger fabric (application level)
+- Solidity, Openzeppelin, Harhat, Founry
 - DeFi
-
-https://irnb.github.io/
+- Safe Contract Architecture
+- PolygonID
+- Tornado Cash
+- ZKP (verfiable computation)
+- Circom
