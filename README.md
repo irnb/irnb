@@ -12,6 +12,3 @@ This is Hamid
 - **Ethereum Protocol Fellowship**: Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
 - **Bitcoin Layer 2**: Serving as a Protocol Architect and Rust Engineer in **txFusion**, working on creating a Layer 2 solution on Bitcoin based on zkSync-Era.
 
-### 📊 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=radical)
