@@ -14,5 +14,4 @@ This is Hamid
 
 ### 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irnb&theme=dark&hide_border=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=radical)
