@@ -5,10 +5,29 @@ This is Hamid
 - 🔭 Software Engineer, Blockchain Researcher, EIP-7503 Author
 - ⛵ **Areas of Interest**: Ethereum Core Development, Censorship Resistance, Privacy, Layer 2, ZKP, DeFi
 - 📫 **Contact**: [hamid@europe.com](mailto:hamid@europe.com), [Telegram](https://t.me/newbateni)
-- 🌐 **Website**: [bateni.xyz](https://bateni.xyz)
+- 🌐 **Website**: [bateni.xyz](https://bateni.xyz) [shiryakhat.net](https://shiryakhat.net)
 
+---
 ### 🏗️ Current Occupation
 
-- **Ethereum Protocol Fellowship**: Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
+- **Ethereum Protocol Fellowship**:
+  - Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
+  - Direct integration (non-http) of Lighthoue-Reth [(Link)](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md).
 - **Bitcoin Layer 2**: Serving as a Protocol Architect and Rust Engineer in **txFusion**, working on creating a Layer 2 solution on Bitcoin based on zkSync-Era.
 
+---
+### 🗂️ Previous Experience
+
+- **Enterprise Wallet Systems**  
+  - Worked as Software Engineer & Blockchain Integration Engineer for 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, key security, MPC, HSM, and utlizing smartcontracts for optimizing the management of large-scale asset operations on EVM-based chains.
+  - Led the integration of various new blockchains and tokens into the system.
+
+- **Applied ZKP (Zero-Knowledge Proofs) Projects**  
+  - **EIP-7503:** Contributed to the Ethereum Improvement Proposal (EIP) 7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
+  - **Private Proof of Solvency:** Involved in the development of Private Proof of Solvency, with the research paper available [here](https://arxiv.org/abs/2310.13900).
+- **OrderBook Based DEX**  
+  - Contributed to the development of an on-chain order book for decentralized exchanges, with details available in the [whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees).
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=radical)
