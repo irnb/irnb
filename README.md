@@ -23,8 +23,8 @@ This is Hamid
   - Led the integration of various new blockchains and tokens into the system.
 
 - **Applied ZKP (Zero-Knowledge Proofs) Projects**  
-  - **EIP-7503:** Contributed to the Ethereum Improvement Proposal (EIP) 7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
-  - **Private Proof of Solvency:** Involved in the development of Private Proof of Solvency, with the research paper available [here](https://arxiv.org/abs/2310.13900).
+  - **EIP-7503:** Contributed to the EIP-7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
+  - **Private Proof of Solvency:** Design Private Proof of Solvency protocol, with the research paper available [here](https://arxiv.org/abs/2310.13900).
 - **OrderBook Based DEX**  
   - Contributed to the development of an on-chain order book for decentralized exchanges, with details available in the [whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees).
 
