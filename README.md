@@ -22,7 +22,7 @@ This is Hamid
   - Worked as Software Engineer & Blockchain Integration Engineer for 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, key security, MPC, HSM, and utlizing smartcontracts for optimizing the management of large-scale asset operations on EVM-based chains.
   - Led the integration of various new blockchains and tokens into the system.
 
-- **Applied ZKP (Zero-Knowledge Proofs) Projects**  
+- **Applied ZKP Projects**  
   - **EIP-7503:** Contributed to the EIP-7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
   - **Private Proof of Solvency:** Design Private Proof of Solvency protocol, with the research paper available [here](https://arxiv.org/abs/2310.13900).
 - **OrderBook Based DEX**  
