@@ -11,22 +11,23 @@ This is Hamid
 ### 🏗️ Current Occupation
 
 - **Ethereum Protocol Fellowship**:
-  - Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
-  - Direct integration (non-http) of Lighthoue-Reth [(Link)](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md).
-- **Bitcoin Layer 2**: Serving as a Protocol Architect and Rust Engineer in **txFusion**, working on creating a Layer 2 solution on Bitcoin based on zkSync-Era.
+  - 🕸️ Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
+  - ⚙️✨ Direct integration (non-http) of Lighthoue-Reth [(Link)](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md).
+- **Bitcoin Layer 2**: 
+  - 🦀💻 Serving as a Protocol Architect and Rust Engineer in **txFusion**, working on creating a Layer 2 solution on Bitcoin based on zkSync-Era.
 
 ---
 ### 🗂️ Previous Experience
 
 - **Enterprise Wallet Systems**  
-  - Worked as Software Engineer & Blockchain Integration Engineer for 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, key security, MPC, HSM, and utlizing smartcontracts for optimizing the management of large-scale asset operations on EVM-based chains.
-  - Led the integration of various new blockchains and tokens into the system.
+  - 💼 Worked as Software Engineer & Blockchain Integration Engineer for 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, key security, MPC, HSM, and utlizing smartcontracts for optimizing the management of large-scale asset operations on EVM-based chains.
+  - 🚀 Led the integration of various new blockchains and tokens into the system.
 
 - **Applied ZKP Projects**  
-  - **EIP-7503:** Contributed to the EIP-7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
-  - **Private Proof of Solvency:** Design Private Proof of Solvency protocol, with the research paper available [here](https://arxiv.org/abs/2310.13900).
+  - **EIP-7503 🕶️:** Contributed to the EIP-7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
+  - **Private Proof of Solvency 🕵️‍♂️🧙‍♂️:** Design Private Proof of Solvency protocol, with the research paper available [here](https://arxiv.org/abs/2310.13900).
 - **OrderBook Based DEX**  
-  - Contributed to the development of an on-chain order book for decentralized exchanges, with details available in the [whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees).
+  - 🎯 Contributed to the development of an on-chain order book for decentralized exchanges, with details available in the [whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees).
 
 ---
 
