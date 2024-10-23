@@ -32,4 +32,4 @@ This is Hamid
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=)
