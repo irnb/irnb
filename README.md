@@ -3,21 +3,20 @@
 This is Hamid
 
 - 🔭 Software Engineer, Blockchain Researcher, EIP-7503 Author
-- ⛵ **Areas of Interest**: Ethereum Core Development, Censorship Resistance, Privacy, Layer 2, ZKP, DeFi
+- ⛵ **Areas of Interest**: Bitcoin, Ethereum Core Development, Censorship Resistance, Privacy, Layer2, ZKP, Bitvm2
 - 📫 **Contact**: [hamid@europe.com](mailto:hamid@europe.com), [Telegram](https://t.me/newbateni)
 - 🌐 **Website**: [bateni.xyz](https://bateni.xyz) [shiryakhat.net](https://shiryakhat.net)
 
 ---
 ### 🏗️ Current Occupation
 
-- **Bitcoin Layer 2**: 
-  - 🦀💻 Serving as a Protocol Architect and Rust Engineer in **txFusion**, working on creating a Layer 2 solution on Bitcoin based on zkSync-Era.
-
 ---
 ### 🗂️ Previous Experience
+- **ZkSync Based Bitcoin Validium**: 
+  - 🦀💻 Architected and contributed to the development a Layer 2 solution on Bitcoin at **txFusion**, drawing inspiration from zkSync Era. Focused on MuSig2, Bitcoin inscription envelope, and the zkSync Era sequencer architecture, serving as a Protocol Architect and Rust Engineer.
 
 - **Ethereum Protocol Fellowship**:
-  - 🕸️ Working on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
+  - 🕸️ Contributed on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
   - ⚙️✨ Direct integration (non-http) of Lighthoue-Reth [(Link)](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md).
   
 - **Enterprise Wallet Systems**  
