@@ -3,13 +3,11 @@
 This is Hamid
 
 - 🔭 Software Engineer, Blockchain Researcher, EIP-7503 Author
-- ⛵ **Areas of Interest**: Bitcoin, Ethereum Core Development, Censorship Resistance, Privacy, Layer2, ZKP, Bitvm2
-- 📫 **Contact**: [hamid@europe.com](mailto:hamid@europe.com), [Telegram](https://t.me/newbateni)
-- 🌐 **Website**: [bateni.xyz](https://bateni.xyz) [shiryakhat.net](https://shiryakhat.net)
+- ⛵ **Areas of Interest**: Bitcoin, Ethereum Core Development, Censorship Resistance, Privacy, Layer2, ZKP, Bitvm
 
 ---
 ### 🏗️ Current Occupation
-
+- **Alpen Labs**
 ---
 ### 🗂️ Previous Experience
 - **ZkSync Based Bitcoin Validium**: 
