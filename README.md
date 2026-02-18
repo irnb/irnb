@@ -2,31 +2,40 @@
 
 This is Hamid
 
-- 🔭 Software Engineer, Blockchain Researcher, EIP-7503 Author
-- ⛵ **Areas of Interest**: Bitcoin, Ethereum Core Development, Censorship Resistance, Privacy, Layer2, ZKP, Bitvm
-
----
-### 🏗️ Current Occupation
-- **Alpen Labs**
----
-### 🗂️ Previous Experience
-- **ZkSync Based Bitcoin Validium**: 
-  - 🦀💻 Architected and contributed to the development a Layer 2 solution on Bitcoin at **txFusion**, drawing inspiration from zkSync Era. Focused on MuSig2, Bitcoin inscription envelope, and the zkSync Era sequencer architecture, serving as a Protocol Architect and Rust Engineer.
-
-- **Ethereum Protocol Fellowship**:
-  - 🕸️ Contributed on the implementation of [Inclusion List with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse** as fellow in [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf) program.
-  - ⚙️✨ Direct integration (non-http) of Lighthoue-Reth [(Link)](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md).
-  
-- **Enterprise Wallet Systems**  
-  - 💼 Worked as Software Engineer & Blockchain Integration Engineer for 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, key security, MPC, HSM, and utlizing smartcontracts for optimizing the management of large-scale asset operations on EVM-based chains.
-  - 🚀 Led the integration of various new blockchains and tokens into the system.
-
-- **Applied ZKP Projects**  
-  - **EIP-7503 🕶️:** Contributed to the EIP-7503, which can be reviewed [here](https://eips.ethereum.org/EIPS/eip-7503).
-  - **Private Proof of Solvency 🕵️‍♂️🧙‍♂️:** Design Private Proof of Solvency protocol, with the research paper available [here](https://arxiv.org/abs/2310.13900).
-- **OrderBook Based DEX**  
-  - 🎯 Contributed to the development of an on-chain order book for decentralized exchanges, with details available in the [whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees).
+- 🔭 **Protocol Engineer** · **Blockchain Researcher** · **[EIP-7503](https://eips.ethereum.org/EIPS/eip-7503) Author**
+- ⛵ Building infrastructure at the intersection of cryptography, privacy, and decentralized systems.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irnb&show_icons=true&theme=one_dark_pro)
+### 🏗️ What I'm Working On
+
+- **Alpen Labs**:
+    - 🦀💻 Contributing to [Strata/Alpen](https://github.com/alpenlabs/alpen), a Bitcoin-native rollup with a 1/n bridge security model (BitVM/Glock25). Working across the stack; Sequencer internals, DA and ZK proof statements.
+
+---
+
+### 🗂️ Notable Work
+
+- **EIP-7503: Zero-Knowledge Wormholes**
+  - 🕶️ An Ethereum Improvement Proposal for native private ETH transfers using zero-knowledge proofs, built on top of a private proof of burn mechanism. The protocol enables users to burn ETH and re-mint it to a new address without any on-chain link, providing plausible deniability at the protocol level. [EIP7503](https://eips.ethereum.org/EIPS/eip-7503)
+
+- **Private Proof of Solvency**
+  - 🕵️‍♂️ Designed a privacy-preserving proof of solvency protocol, enabling custody providers to prove their reserves in public without exposing sensitive financial data with using zkp. [Paper](https://arxiv.org/abs/2310.13900)
+
+- **ZkSync-Based Bitcoin Validium**
+  - 🦀💻 A Layer 2 validium solution on Bitcoin at **txFusion**, drawing inspiration from zkSync Era. Focused on MuSig2, Bitcoin inscription envelopes, and the zkSync Era sequencer architecture, serving as Protocol Architect and Rust Engineer. [Repo](https://github.com/vianetwork/via-core)
+
+- **Ethereum Protocol Fellowship**
+  - 🕸️ Implemented [Inclusion Lists with Plausible Deniability](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/attestation-based-inclusion-list.md) on **Reth** and **Lighthouse**.
+  - ⚙️ Built a [direct (non-HTTP) integration](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/direct-integration-of-lighthouse-reth-and-tracing-integration-in-lighthouse.md) of Lighthouse-Reth.
+
+- **Enterprise Wallet Systems**
+  - 💼 3 years building high-scale exchange infrastructure. Built systems that managed millions of addresses, with a focus on on-chain privacy, key security (MPC, HSM), and smart contract-based asset management on EVM chains.
+
+
+- **On-Chain Order Book DEX**
+  - 🎯 Contributed to a decentralized exchange with a fully on-chain order book using sum trees for efficient matching. [Whitepaper](https://whitepaper.multipool.finance/protocol-overview/independent-on-chain-order-book/sum-trees)
+
+---
+(bat3ni@gmail.com)
+
