@@ -20,7 +20,7 @@ This is Hamid
   - 🕶️ An Ethereum Improvement Proposal for native private ETH transfers using zero-knowledge proofs, built on top of a private proof of burn mechanism. [EIP7503](https://eips.ethereum.org/EIPS/eip-7503)
 
 - **Private Proof of Solvency**
-  - 🕵️‍♂️ Designed a privacy-preserving proof of solvency protocol, enabling custody providers to prove their reserves in public without exposing sensitive financial data with using zkp. [Paper](https://arxiv.org/abs/2310.13900)
+  - 🕵️‍♂️ Designed a privacy-preserving proof of solvency protocol, enabling custody providers to prove their reserves in public without exposing sensitive financial/on-chain data with using zkp. [Paper](https://arxiv.org/abs/2310.13900)
 
 - **ZkSync-Based Bitcoin Validium**
   - 🦀💻 A Layer 2 validium solution on Bitcoin at **txFusion**, drawing inspiration from zkSync Era. Focused on MuSig2, Bitcoin inscription envelopes, and the zkSync Era sequencer architecture, serving as Protocol Architect and Rust Engineer. [Repo](https://github.com/vianetwork/via-core)
