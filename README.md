@@ -2,7 +2,7 @@
 
 This is Hamid
 
-- 🔭 **Protocol Engineer** · **Blockchain Researcher** · **[EIP-7503](https://eips.ethereum.org/EIPS/eip-7503) Author**
+- 🔭 **Protocol Engineer** · **Blockchain Researcher** ·
 - ⛵ Building infrastructure at the intersection of cryptography, privacy, and decentralized systems.
 
 ---
