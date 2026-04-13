@@ -14,7 +14,7 @@ This is Hamid
 
 ---
 
-### 🗂️ Notable Work
+### 🗂️ Past Contributions
 
 - **EIP-7503: Zero-Knowledge Wormholes**
   - 🕶️ An Ethereum Improvement Proposal for native private ETH transfers using zero-knowledge proofs, built on top of a private proof of burn mechanism. [EIP7503](https://eips.ethereum.org/EIPS/eip-7503)
