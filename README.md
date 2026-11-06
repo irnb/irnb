@@ -2,7 +2,7 @@
 
 This is Hamid
 
-- 🔭 **Protocol Engineer** · **Blockchain Researcher** ·
+- 🔭 **Protocol Engineer** 
 - ⛵ Building infrastructure at the intersection of cryptography, privacy, and decentralized systems.
 
 ---
